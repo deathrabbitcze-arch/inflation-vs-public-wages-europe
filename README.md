@@ -27,7 +27,7 @@ The goal is to evaluate how inflation affected real purchasing power across coun
 ## Visualizations
 
 ### Czech Republic
-![Czech Republic](./Česko.png)
+![Czech Republic](./czech.png)
 
 ### Austria
-![Austria](./Rakousko.png)
+![Austria](./austria.png)
